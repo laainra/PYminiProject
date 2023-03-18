@@ -1,0 +1,6 @@
+Simple 3 Steps
+
+Step 1 = get a crap-load of faces (crap-load( a lot of thing. A large amount, especially of something worthless.))
+2   = Make all of em b&w, dont to colored. grayscale
+opencv = copmuter visison library
+3 train the algorithm detect the face, even with glasses or make some expression that people usually do
